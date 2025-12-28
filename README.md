@@ -1,4 +1,4 @@
-# House-Prediction-using-Regression
+# House-Price-Prediction-using-Regression
 This project focuses on predicting housing prices based on property-related features using multiple machine learning regression techniques.
 
 ## Objective
